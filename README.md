@@ -11,8 +11,8 @@ Markddown是一种轻量级标记语言，相较于传统的HTML或其他格式�
 
 # 阅读前：
 
-本教程基于Markdown语言编写，项目地址位于[markdown-for-beginners](https://github.com/Boluo-pixel/markdown-for-beginners)。
-该文档是Markdown语法的基础教程，更多高级用法和最佳实践，请参照其他文档。
+本教程基于Markdown语言编写，项目地址位于[markdown-for-beginners](https://github.com/Boluo-pixel/markdown-for-beginners)。  
+该文档是Markdown语法的基础教程，更多高级用法和最佳实践，请参照其他文档。  
 文档中代码块内的代码为Markdown的语法（除[代码块部分](#代码块)）。
 
 ---
