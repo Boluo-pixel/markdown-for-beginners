@@ -9,10 +9,12 @@ Markddown是一种轻量级标记语言，相较于传统的HTML或其他格式�
 - 输出多样性：Markdown文档可以轻松地转换为多种格式，你可以根据需要将你的文件导出为不同格式，适应不同的发布平台。
 - 跨平台兼容性：Markdown在不同的编辑器、操作系统和平台上都能良好运行，你无需担心兼容性问题。
 
-# 阅读前：
+# 阅读前须知
 
-本教程基于Markdown语言编写，项目地址位于[markdown-for-beginners](https://github.com/Boluo-pixel/markdown-for-beginners)。  
+本教程基于Markdown语言编写，项目地址位于[markdown-for-beginners](https://github.com/Boluo-pixel/markdown-for-beginners)。 
+
 该文档是Markdown语法的基础教程，更多高级用法和最佳实践，请参照其他文档。  
+
 文档中代码块内的代码为Markdown的语法（除[代码块部分](#代码块)）。
 
 ---
